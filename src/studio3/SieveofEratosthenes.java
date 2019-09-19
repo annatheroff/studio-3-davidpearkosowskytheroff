@@ -26,6 +26,7 @@ public class SieveofEratosthenes {
         {
             if(mat[j]!=0)
             {
+
                 System.out.print(mat[j] + " ");
             }
         }
